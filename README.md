@@ -9,6 +9,7 @@ The code for the Domain Adaptation part is in the file adv_layer.py
 You can start training the model by running the main.py file
 # Citation
 If you find our work helps your research, please kindly consider citing our paper in your publications.
+
 @article{yeadaptive,
   title={Adaptive Spatial-Temporal Aware Graph Learning for EEG-based Emotion Recognition},
   author={Ye, Weishan and Wang, Jiyuan and Chen, Lin and Dai, Lifei and Sun, Zhe and Liang, Zhen},
