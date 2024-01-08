@@ -3,7 +3,7 @@ A Pytorch implementation of our paper "Adaptive Spatial-Temporal Aware Graph Lea
 EEG-based Emotion Recognition".
 You can find the corresponding article here: [GraphEmotionNet](https://spj.science.org/doi/pdf/10.34133/cbsystems.0088)
 # Dataset
-Prepare dataset: [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html) and [SEED-IV](https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html)
+Prepare dataset: [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html) ， [SEED-IV](https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html) and [MDD](https://figshare.com/articles/dataset/EEG_Data_New/4244171/2)
 # Training
 The model definition is in file: models.py
 
