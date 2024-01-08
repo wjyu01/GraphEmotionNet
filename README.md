@@ -5,7 +5,9 @@ You can find the corresponding article here: [GraphEmotionNet](https://spj.scien
 Prepare dataset: [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html) and [SEED-IV](https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html)
 # Training
 The model definition is in file: models.py
+
 The code for the Domain Adaptation part is in the file adv_layer.py
+
 You can start training the model by running the main.py file
 # Citation
 If you find our work helps your research, please kindly consider citing our paper in your publications.
